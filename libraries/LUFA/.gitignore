@@ -13,5 +13,3 @@
 *.a
 
 # LUFA
-LUFA/*
-!LUFA/.keep
